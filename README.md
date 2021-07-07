@@ -1,4 +1,9 @@
 # Ian Azevedo
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianbrito&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
 #### Desenvolvedor - NTI/PMS
 #### Estudante de Ciência da Computação/UFOPA</br>Técnico em Informática/IFAM
 
