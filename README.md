@@ -1,6 +1,8 @@
 # Ian Azevedo
 <div style="text-align:center; font-size:1.4rem">
   Desenvolvedor Web - NTI/PMS | Ciência da Computação - UFOPA | Técnico em Informática - IFAM
+<br/>
+<br/>
   
 [![Twitter Badge](https://img.shields.io/badge/-%40ianbrito____-blue?style=flat-square&labelColor=Bluecc&logo=twitter&logoColor=white&link=https://twitter.com/ianbrito__)](https://twitter.com/ianbrito__)
 [![Gmail Badge](https://img.shields.io/badge/-ianbazevedo@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ianbazevedo@gmail.com)](mailto:ianbazevedo@gmail.com)
