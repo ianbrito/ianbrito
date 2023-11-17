@@ -1,8 +1,23 @@
 # Ian Azevedo
-<div style="text-align:center; font-size:1.5rem">
-  Desenvolvedor Web - Prefeitura de Santarém | Ciência da Computação - UFOPA
-<br/>
 
+**Sobre Mim: Desenvolvedor Full-Stack com Paixão por Desafios e Inovação**
+
+Olá! 👋 Sou Ian de Brito de Azevedo, um desenvolvedor full-stack apaixonado por tecnologia e inovação. Com mais de 4 anos de experiência, trago uma sólida bagagem em projetos desafiadores que envolvem o desenvolvimento backend, gestão de sistemas e soluções personalizadas.
+
+Atualmente, atuo como Chefe da Divisão de Análise e Desenvolvimento de Sistemas na Prefeitura de Santarém, liderando equipes e entregando soluções inovadoras para a Gestão Pública Municipal. Meu compromisso é contribuir ativamente para projetos desafiadores, fortalecendo equipes com habilidades sólidas em desenvolvimento backend.
+
+Além disso, como desenvolvedor full-stack autônomo, destaco meu mais recente projeto: a modernização operacional do Frigorífico Peixão. Através do desenvolvimento do Sistema Modular de Gerenciamento, alcancei eficiência operacional, sustentabilidade e um controle transparente, reforçando meu compromisso em oferecer soluções personalizadas e inovadoras.
+
+Minhas habilidades abrangem PHP, Laravel, Livewire, ReactJS, Vue.js, Tailwind CSS, e diversas outras tecnologias, respaldadas por uma formação acadêmica em Ciência da Computação na UFOPA e um histórico sólido como Técnico em Informática pelo IFAM.
+
+Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Vamos conectar e explorar como posso contribuir para o sucesso do seu próximo projeto! 🚀
+
+**Contato:**
+- ✉️ ianbazevedo@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ianbazevedo)
+- 🌐 [GitHub](https://github.com/ianbrito)
+
+#DesenvolvedorFullStack #Inovação #DesenvolvimentoBackend #Tecnologia
 ### Tecnologias
 <div style="display: flex; flex-direction: row; column-gap: 2rem;"> 
     <a href="https://www.php.net" target="_blank">
