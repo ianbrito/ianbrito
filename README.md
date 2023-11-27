@@ -4,11 +4,11 @@
 
 Sou desenvolvedor full-stack apaixonado por tecnologia e inovação. Com mais de 4 anos de experiência, trago uma sólida bagagem em projetos desafiadores que envolvem o desenvolvimento backend, gestão de sistemas e soluções personalizadas.
 
-Atualmente, atuo como Chefe da Divisão de Análise e Desenvolvimento de Sistemas na Prefeitura de Santarém, trabalhando em equipe e entregando soluções inovadoras para a Gestão Pública Municipal. Meu compromisso é contribuir ativamente para projetos desafiadores, fortalecendo equipes com habilidades sólidas em desenvolvimento backend.
+Atualmente, atuo como Chefe da Divisão de Análise e Desenvolvimento de Sistemas na Prefeitura de Santarém, trabalhando em equipe e entregando soluções inovadoras para a Gestão Pública Municipal. Meu compromisso é contribuir ativamente para projetos desafiadores, fortalecendo equipes com habilidades sólidas em desenvolvimento backend
 
 Além disso, como desenvolvedor full-stack autônomo, destaco meu mais recente projeto: a modernização operacional do Frigorífico Peixão. Através do desenvolvimento do Sistema Modular de Gerenciamento, alcancei eficiência operacional, sustentabilidade e um controle transparente, reforçando meu compromisso em oferecer soluções personalizadas e inovadoras.
 
-Minhas habilidades abrangem PHP, Go, Python, Laravel, Livewire, ReactJS, Vue.js, Tailwind CSS, SQL, PostgreSQL, Microsoft SQL Server, Docker e diversas outras tecnologias, respaldadas por uma formação acadêmica em Ciência da Computação na UFOPA e um histórico sólido como Desenvolvedor Full-Stack pela Prefeitura de Santarém.
+Minhas habilidades abrangem PHP, Go, Python, Laravel, Livewire, ReactJS, Vue.js, Tailwind CSS, SQL, Banco de Dados Relacionais (PostgreSQL, MySQL e Microsoft SQL Server) e Não Relacionais (MongoDB e DynamoDB), Docker e diversas outras tecnologias, respaldadas por uma formação acadêmica em Ciência da Computação na UFOPA e um histórico sólido como Desenvolvedor Full-Stack pela Prefeitura de Santarém.
 
 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Vamos conectar e explorar como posso contribuir para o sucesso do seu próximo projeto!🚀
 
