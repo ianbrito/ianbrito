@@ -1,6 +1,6 @@
 # Ian Azevedo
 
-**Sobre Mim: Desenvolvedor Full-Stack com Paixão por Desafios e Inovação**
+**Desenvolvedor Full-Stack**
 
 Sou desenvolvedor full-stack apaixonado por tecnologia e inovação. Com mais de 4 anos de experiência, trago uma sólida bagagem em projetos desafiadores que envolvem o desenvolvimento backend, gestão de sistemas e soluções personalizadas.
 
